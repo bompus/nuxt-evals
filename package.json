@@ -10,11 +10,11 @@
     "test:cost": "tsx --test scripts/cost.test.ts"
   },
   "devDependencies": {
-    "tsx": "^4.23.13",
+    "tsx": "^4.23.15",
     "typescript": "^7.0.2",
-    "@types/node": "^25.9.5"
+    "@types/node": "^25.9.9"
   },
   "dependencies": {
-    "@vercel/agent-eval": "^2.2.1"
+    "@vercel/agent-eval": "^2.5.0"
   }
 }

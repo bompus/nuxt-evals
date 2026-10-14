@@ -46,7 +46,9 @@ Unit tests for the token extraction and pricing in `scripts/cost.ts`.
 | `claude-opus-4.7` | `vercel-ai-gateway/claude-code` | `anthropic/claude-opus-4.7` |
 | `claude-opus-4.8` | `vercel-ai-gateway/claude-code` | `anthropic/claude-opus-4.8` |
 | `claude-opus-5` | `vercel-ai-gateway/claude-code` | `anthropic/claude-opus-5` |
+| `claude-opus-5.5` | `vercel-ai-gateway/claude-code` | `anthropic/claude-opus-5.5` |
 | `claude-fable-5` | `vercel-ai-gateway/claude-code` | `anthropic/claude-fable-5` |
+| `claude-fable-5.1` | `vercel-ai-gateway/claude-code` | `anthropic/claude-fable-5.1` |
 | `claude-sonnet-4.5` | `vercel-ai-gateway/claude-code` | `anthropic/claude-sonnet-4.5` |
 | `claude-sonnet-4.6` | `vercel-ai-gateway/claude-code` | `anthropic/claude-sonnet-4.6` |
 | `claude-sonnet-5` | `vercel-ai-gateway/claude-code` | `anthropic/claude-sonnet-5` |
@@ -60,6 +62,8 @@ Unit tests for the token extraction and pricing in `scripts/cost.ts`.
 | `gpt-5.4-xhigh` | `vercel-ai-gateway/codex` | `openai/gpt-5.4?reasoningEffort=xhigh` |
 | `gpt-5.5-pro` | `vercel-ai-gateway/codex` | `openai/gpt-5.5-pro` |
 | `gpt-5.6-sol-xhigh` | `vercel-ai-gateway/codex` | `openai/gpt-5.6-sol?reasoningEffort=xhigh` |
+| `gpt-6-astra-high` | `vercel-ai-gateway/codex` | `openai/gpt-6-astra?reasoningEffort=high` |
+| `gpt-6-sol-high` | `vercel-ai-gateway/codex` | `openai/gpt-6-sol?reasoningEffort=high` |
 | `kimi-k2.6` | `vercel-ai-gateway/opencode` | `vercel/moonshotai/kimi-k2.6` |
 | `kimi-k2.7-code` | `vercel-ai-gateway/opencode` | `vercel/moonshotai/kimi-k2.7-code` |
 | `kimi-k3` | `vercel-ai-gateway/opencode` | `vercel/moonshotai/kimi-k3` |
